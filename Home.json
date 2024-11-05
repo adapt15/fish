@@ -2,16 +2,19 @@
   {
     "id": 1,
     "name": "Salmon",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02"
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02",
+    "description": "Salmon is a popular fish known for its pink flesh and rich flavor."
   },
   {
     "id": 2,
     "name": "Tuna",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02"
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02",
+    "description": "Tuna is a large and fast-swimming fish, often served in sushi and sashimi."
   },
   {
     "id": 3,
     "name": "Trout",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02"
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02",
+    "description": "Trout is a freshwater fish related to salmon, prized for its delicate flavor."
   }
 ]
