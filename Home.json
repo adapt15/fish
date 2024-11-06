@@ -1,122 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Гуппі",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/guppy.jpg?alt=media&token=exampletoken1",
-    "description": "Гуппі - маленька яскрава рибка, популярна серед акваріумістів завдяки своїй витривалості та різноманітним забарвленням."
+    "name": "Salmon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02"
   },
   {
     "id": 2,
-    "name": "Неон",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/neon.jpg?alt=media&token=exampletoken2",
-    "description": "Неони - маленькі рибки з яскравими синьо-червоними смугами, які додають краси будь-якому акваріуму."
+    "name": "Tuna",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02"
   },
   {
     "id": 3,
-    "name": "Скалярія",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/angelfish.jpg?alt=media&token=exampletoken3",
-    "description": "Скалярія - витончена акваріумна рибка з великими плавниками, відома своїм спокійним характером."
-  },
-  {
-    "id": 4,
-    "name": "Меченосець",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/swordtail.jpg?alt=media&token=exampletoken4",
-    "description": "Меченосець - мирна рибка з характерним хвостом, схожим на меч, популярна серед початківців."
-  },
-  {
-    "id": 5,
-    "name": "Золота рибка",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/goldfish.jpg?alt=media&token=exampletoken5",
-    "description": "Золота рибка - класична акваріумна риба, відома своїм золотим кольором і легкістю догляду."
-  },
-  {
-    "id": 6,
-    "name": "Пецілія",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/pecilia.jpg?alt=media&token=exampletoken6",
-    "description": "Пецілія - мирна рибка, яка легко адаптується до різних умов і має багато варіантів забарвлення."
-  },
-  {
-    "id": 7,
-    "name": "Барбус",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/barbus.jpg?alt=media&token=exampletoken7",
-    "description": "Барбус - активна і жвава рибка, яка добре почувається в групах."
-  },
-  {
-    "id": 8,
-    "name": "Тетра",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/tetra.jpg?alt=media&token=exampletoken8",
-    "description": "Тетри - дрібні рибки, відомі своїми яскравими кольорами і миролюбним характером."
-  },
-  {
-    "id": 9,
-    "name": "Коридорас",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/corydoras.jpg?alt=media&token=exampletoken9",
-    "description": "Коридорас - мирні донні рибки, які відомі своєю витривалістю і дружелюбністю до інших видів."
-  },
-  {
-    "id": 10,
-    "name": "Лабео",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/labeo.jpg?alt=media&token=exampletoken10",
-    "description": "Лабео - агресивна рибка з характерною формою тіла, відома своєю здатністю до боротьби за територію."
-  },
-  {
-    "id": 11,
-    "name": "Моллінезія",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/molly.jpg?alt=media&token=exampletoken11",
-    "description": "Моллінезії - рибки з миролюбним характером, що добре підходять для акваріумів з іншими мирними видами."
-  },
-  {
-    "id": 12,
-    "name": "Дискос",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/discus.jpg?alt=media&token=exampletoken12",
-    "description": "Дискоси - екзотичні рибки з великими округлими тілами і красивими кольорами."
-  },
-  {
-    "id": 13,
-    "name": "Гарра руфа",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/garra.jpg?alt=media&token=exampletoken13",
-    "description": "Гарра руфа - рибки, які відомі своєю здатністю очищати шкіру людини в спеціальних процедурах."
-  },
-  {
-    "id": 14,
-    "name": "Анциструс",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/ancistrus.jpg?alt=media&token=exampletoken14",
-    "description": "Анциструс - донна рибка з характерними вусиками, яка допомагає підтримувати чистоту акваріуму."
-  },
-  {
-    "id": 15,
-    "name": "Цихлида",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/cichlid.jpg?alt=media&token=exampletoken15",
-    "description": "Цихліди - агресивні рибки, які часто утримуються в окремих акваріумах через їхній територіальний характер."
-  },
-  {
-    "id": 16,
-    "name": "Амазонка",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/amazon.jpg?alt=media&token=exampletoken16",
-    "description": "Амазонки - красиві та витривалі рибки, що відомі своїм яскравим забарвленням і активним способом життя."
-  },
-  {
-    "id": 17,
-    "name": "Платі",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/platy.jpg?alt=media&token=exampletoken17",
-    "description": "Платі - мирні рибки з яскравим забарвленням, ідеально підходять для новачків у акваріумістицтві."
-  },
-  {
-    "id": 18,
-    "name": "Сомик",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/pleco.jpg?alt=media&token=exampletoken18",
-    "description": "Сомик - мирні донні рибки, які відомі своєю здатністю очищати акваріум від водоростей."
-  },
-  {
-    "id": 19,
-    "name": "Гіацинтова тетра",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/characin.jpg?alt=media&token=exampletoken19",
-    "description": "Гіацинтова тетра - дрібна і гарно забарвлена рибка, яка є чудовим вибором для невеликих акваріумів."
-  },
-  {
-    "id": 20,
-    "name": "Платиптерус",
-    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/platypterus.jpg?alt=media&token=exampletoken20",
-    "description": "Платиптерус - рибка з довгим, плоским тілом і неймовірно витонченим виглядом."
+    "name": "Trout",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/unnamed.jpg?alt=media&token=64c10a60-0a77-4f3f-a5a5-b0ec30689c02"
   }
 ]
