@@ -28,8 +28,8 @@
     "name": "Золота рибка",
     "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/goldfish.jpg?alt=media&token=exampletoken5",
     "description": "Золота рибка - класична акваріумна риба, відома своїм золотим кольором і легкістю догляду."
-  }
-   {
+  },
+  {
     "id": 6,
     "name": "Пецілія",
     "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/pecilia.jpg?alt=media&token=exampletoken6",
